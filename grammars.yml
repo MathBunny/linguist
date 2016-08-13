@@ -121,6 +121,11 @@ vendor/grammars/SublimeBrainfuck:
 - source.bf
 vendor/grammars/SublimeClarion/:
 - source.clarion
+vendor/grammars/SublimeGDB/:
+- source.disasm
+- source.gdb
+- source.gdb.session
+- source.gdbregs
 vendor/grammars/SublimePapyrus/:
 - source.papyrus.skyrim
 vendor/grammars/SublimePuppet/:
@@ -180,6 +185,8 @@ vendor/grammars/atom-language-clean:
 - source.clean
 vendor/grammars/atom-language-purescript/:
 - source.purescript
+vendor/grammars/atom-language-srt:
+- text.srt
 vendor/grammars/atom-language-stan/:
 - source.stan
 vendor/grammars/atom-salt:
@@ -325,11 +332,17 @@ vendor/grammars/json.tmbundle:
 - source.json
 vendor/grammars/kotlin-sublime-package:
 - source.Kotlin
+vendor/grammars/language-agc:
+- source.agc
 vendor/grammars/language-apl:
 - source.apl
+vendor/grammars/language-asn1:
+- source.asn
 vendor/grammars/language-babel/:
 - source.js.jsx
 - source.regexp.babel
+vendor/grammars/language-blade/:
+- text.html.php.blade
 vendor/grammars/language-click/:
 - source.click
 vendor/grammars/language-clojure:
@@ -379,6 +392,9 @@ vendor/grammars/language-renpy:
 - source.renpy
 vendor/grammars/language-restructuredtext:
 - text.restructuredtext
+vendor/grammars/language-roff:
+- text.roff
+- text.runoff
 vendor/grammars/language-shellscript:
 - source.shell
 - text.shell-session
@@ -386,6 +402,8 @@ vendor/grammars/language-supercollider:
 - source.supercollider
 vendor/grammars/language-toc-wow:
 - source.toc
+vendor/grammars/language-turing:
+- source.turing
 vendor/grammars/language-wavefront:
 - source.wavefront.mtl
 - source.wavefront.obj
@@ -580,9 +598,6 @@ vendor/grammars/sublime_cobol:
 - source.cobol
 - source.jcl
 - source.opencobol
-vendor/grammars/sublime_man_page_support:
-- source.man
-- text.groff
 vendor/grammars/sublimeassembly/:
 - source.assembly
 vendor/grammars/sublimeprolog/:

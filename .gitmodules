@@ -91,9 +91,6 @@
 [submodule "vendor/grammars/bro-sublime"]
 	path = vendor/grammars/bro-sublime
 	url = https://github.com/bro/bro-sublime
-[submodule "vendor/grammars/sublime_man_page_support"]
-	path = vendor/grammars/sublime_man_page_support
-	url = https://github.com/carsonoid/sublime_man_page_support
 [submodule "vendor/grammars/sublime-MuPAD"]
 	path = vendor/grammars/sublime-MuPAD
 	url = https://github.com/ccreutzig/sublime-MuPAD
@@ -675,8 +672,8 @@
 	path = vendor/grammars/pig-latin
 	url = https://github.com/goblindegook/sublime-text-pig-latin
 [submodule "vendor/grammars/sourcepawn"]
-	path = vendor/grammars/sourcepawn
-	url = https://github.com/austinwagner/sublime-sourcepawn
+path = vendor/grammars/sourcepawn
+url = https://github.com/austinwagner/sublime-sourcepawn
 [submodule "vendor/grammars/gdscript"]
 	path = vendor/grammars/gdscript
 	url = https://github.com/beefsack/GDScript-sublime
@@ -740,3 +737,24 @@
 [submodule "vendor/grammars/atom-language-clean"]
 	path = vendor/grammars/atom-language-clean
 	url = https://github.com/timjs/atom-language-clean.git
+[submodule "vendor/grammars/language-turing"]
+	path = vendor/grammars/language-turing
+	url = https://github.com/Alhadis/language-turing
+[submodule "vendor/grammars/atom-language-srt"]
+	path = vendor/grammars/atom-language-srt
+	url = https://github.com/314eter/atom-language-srt
+[submodule "vendor/grammars/language-agc"]
+	path = vendor/grammars/language-agc
+	url = https://github.com/Alhadis/language-agc
+[submodule "vendor/grammars/language-blade"]
+	path = vendor/grammars/language-blade
+	url = https://github.com/jawee/language-blade
+[submodule "vendor/grammars/SublimeGDB"]
+	path = vendor/grammars/SublimeGDB
+	url = https://github.com/quarnster/SublimeGDB
+[submodule "vendor/grammars/language-roff"]
+	path = vendor/grammars/language-roff
+	url = https://github.com/Alhadis/language-roff
+[submodule "vendor/grammars/language-asn1"]
+	path = vendor/grammars/language-asn1
+	url = https://github.com/ajLangley12/language-asn1
